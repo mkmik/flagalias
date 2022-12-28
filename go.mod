@@ -1,3 +1,3 @@
 module github.com/mkmik/flagalias
 
-go 1.17
+go 1.19
